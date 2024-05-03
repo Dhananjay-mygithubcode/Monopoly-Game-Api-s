@@ -1,11 +1,11 @@
 # Monopoly-Game-Api's
-This is a simple implementation of the Monopoly game backend using Spring Boot.
+This is a implementation of the Monopoly game backend using Spring Boot.
 
 About
-Monopoly is a multi-player economics-themed board game. In the game, players roll two dice to move around the game board, buying and trading properties, and developing them with houses and hotels. Players collect rent from their opponents, aiming to drive them into bankruptcy.
+Monopoly is a multi-player game. In the game, players roll two dice to move around the game board, buying and trading properties, and developing them with houses and hotels. Players collect rent from their opponents.
 
 Description
-The project implements the backend logic for a simplified version of the Monopoly game. It includes entities for players, places, and the game itself. Players can buy and sell properties, and the game tracks player positions and balances.
+The project implements the backend logic for a simplified version of the Monopoly game.
 
 # Installation
 Clone the repository:
@@ -35,14 +35,20 @@ Retrieve player information by ID.
 
 Get game status: GET /api/calculate-winner/{gameId}
 
+# Database Relationship Diagram
+
+![database_model](https://github.com/Dhananjay-mygithubcode/Monopoly-Game-Api-s/assets/145243777/cdcff5ba-4c63-4635-92b4-900ac2ee30bb)
+
+The diagram shows the data relationships and system flow of the Monopoly game backend.
+
 # Swagger Documentation
 
 Swagger documentation is available at http://localhost:8080/swagger-ui/index.html.
 
 # Tests
 
-Service Tests: Tests have been created for the service functions, ensuring their correctness and reliability.
-Controller Tests: Tests have been created for the controller functions, verifying their behavior and API responses.
+Service Tests: Tests have been created for service functions, ensuring their correctness and reliability.
+Controller Tests: Tests have been created for controller functions, verifying behavior and API responses.
 
 # Swagger Images
 
