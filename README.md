@@ -46,3 +46,15 @@ Controller Tests: Tests have been created for the controller functions, verifyin
 
 # Swagger Images
 
+![Screenshot 2024-05-03 093752](https://github.com/Dhananjay-mygithubcode/Monopoly-Game-Api-s/assets/145243777/e32b0432-09c4-4deb-ab1d-5c252b4f4268)
+
+![Screenshot 2024-05-03 094224](https://github.com/Dhananjay-mygithubcode/Monopoly-Game-Api-s/assets/145243777/d47cfe59-58ca-44d3-96a3-360009597098)
+
+![Screenshot 2024-05-03 094053](https://github.com/Dhananjay-mygithubcode/Monopoly-Game-Api-s/assets/145243777/5860fd1e-85a6-4756-8f34-e68de23e0a74)
+
+![Screenshot 2024-05-03 094006](https://github.com/Dhananjay-mygithubcode/Monopoly-Game-Api-s/assets/145243777/c62fa9dd-1b34-4ee0-a4bb-821eefbbff5f)
+
+![Screenshot 2024-05-03 093931](https://github.com/Dhananjay-mygithubcode/Monopoly-Game-Api-s/assets/145243777/a92975ba-1886-4e9c-9079-a90d33554767)
+
+![Screenshot 2024-05-03 093841](https://github.com/Dhananjay-mygithubcode/Monopoly-Game-Api-s/assets/145243777/617e2a36-0e7b-41ec-ba95-b5216010b562)
+
