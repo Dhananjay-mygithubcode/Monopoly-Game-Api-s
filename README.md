@@ -38,3 +38,11 @@ Get game status: GET /api/calculate-winner/{gameId}
 # Swagger Documentation
 
 Swagger documentation is available at http://localhost:8080/swagger-ui/index.html.
+
+# Tests
+
+Service Tests: Tests have been created for the service functions, ensuring their correctness and reliability.
+Controller Tests: Tests have been created for the controller functions, verifying their behavior and API responses.
+
+# Swagger Images
+
