@@ -1,0 +1,22 @@
+server:
+  port: 8080
+  
+spring:
+  application:
+    name: Monopoly_game_api
+    
+  datasource:
+    url: jdbc:mysql://localhost:3306/momopoly_game?createDatabaseIfNotExist=true
+    username: root
+    password: root
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    
+  jpa:
+    database-platform: org.hibernate.dialect.MySQL8Dialect
+    hibernate:
+      ddl-auto: update 
+    show-sql: true 
+    
+logging:
+  level:
+    org.springframework.security: DEBUG
