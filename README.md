@@ -13,7 +13,7 @@ Clone the repository:
 # git clone <repository-url>
 Navigate to the project directory:
 
-# cd monopoly-game
+# cd Monopoly_game_api
 Build the project using Maven:
 
 # mvn clean install
